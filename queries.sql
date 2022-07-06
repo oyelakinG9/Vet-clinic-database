@@ -20,11 +20,15 @@ SELECT * FROM animals;
 
 BEGIN;
 
-ALTER TABLE animals ADD species VARCHAR(50);
-
 UPDATE animals SET species='unspecified';
 
+SELECT * FROM animals;
+
 ROLLBACK;
+
+UPDATE animals SET species='digimon' WHERE name LIKE '%mon%';
+
+SELECT * FROM animals;
 
 UPDATE animals SET species='pokemon' WHERE species IS NULL;
 

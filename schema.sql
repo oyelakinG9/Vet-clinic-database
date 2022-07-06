@@ -6,6 +6,7 @@ CREATE DATABASE vet_clinic;
     date_of_birth DATE,
     escape_attempts INT,
     neutered BOOLEAN,
-    weight_kg DECIMAL,
-    species VARCHAR NOT NULL
+    weight_kg DECIMAL
   );
+
+ALTER TABLE animals ADD species varchar(100);
