@@ -81,7 +81,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ![Screenshot 1443-12-07 at 15 46 19](https://user-images.githubusercontent.com/61976324/177593476-d502661f-4f12-4bd1-b942-4caf5e97f8cb.png)
 
-Also perfomed the following queries operation showed in below screenshot 
+Also perfomed the following queries operation shown in below screenshot 
 
 
 ![Screenshot 1443-12-07 at 16 10 18](https://user-images.githubusercontent.com/61976324/177594113-796c96fa-47d4-47b3-8414-e9561afbc01d.png)
