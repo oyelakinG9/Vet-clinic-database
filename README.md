@@ -73,18 +73,13 @@ This repository includes files with plain SQL that can be used to recreate a dat
 > SELECT species, AVG(escape_attempts) FROM animals WHERE date_of_birth BETWEEN '1990-01-01' AND '2000-12-31' GROUP BY species;
 
 
-![Screenshot 1443-12-07 at 15 43 11](https://user-images.githubusercontent.com/61976324/177592622-fe3ec847-5dc1-4258-b1e1-af5b34e7f6af.png)
+![Screenshot 1443-12-08 at 00 39 13](https://user-images.githubusercontent.com/61976324/177663840-16d07ceb-4176-4e55-95bd-1e09e9403701.png)
 
-![Screenshot 1443-12-07 at 15 44 27](https://user-images.githubusercontent.com/61976324/177592945-ba0947c6-7129-48d6-b0cd-4c0c6621ba2e.png)
+![Screenshot 1443-12-08 at 00 39 39](https://user-images.githubusercontent.com/61976324/177663928-2d49d98e-7f9e-4ae4-a238-ef419491b7c0.png)
 
-![Screenshot 1443-12-07 at 15 45 18](https://user-images.githubusercontent.com/61976324/177593250-9a098ff0-e6ea-406c-890b-2ff0e4848d72.png)
+![Screenshot 1443-12-08 at 01 06 18](https://user-images.githubusercontent.com/61976324/177664043-e058e1e1-ea41-40cb-b670-6c720d2f9a51.png)
 
-![Screenshot 1443-12-07 at 15 46 19](https://user-images.githubusercontent.com/61976324/177593476-d502661f-4f12-4bd1-b942-4caf5e97f8cb.png)
-
-Also perfomed the following queries operation shown in below screenshot 
-
-
-![Screenshot 1443-12-07 at 16 10 18](https://user-images.githubusercontent.com/61976324/177594113-796c96fa-47d4-47b3-8414-e9561afbc01d.png)
+![Screenshot 1443-12-08 at 01 06 33](https://user-images.githubusercontent.com/61976324/177664084-4487d280-b94c-4901-bc04-8a3014e4890b.png)
 
 ## Authors   
 
